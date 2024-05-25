@@ -1,6 +1,6 @@
 steps to run it locally:
 
-1. git clone 
+1. git clone https://github.com/AkshithReddy12/to-do.git
 2. cd backend
 3. npm install
 4. node server.js
